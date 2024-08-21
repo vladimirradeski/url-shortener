@@ -13,15 +13,15 @@ Before getting started, make sure you have the following installed:
 
 ## Setup
 
-**Build and run the backend:**:
+**Build and run:**:
    ```bash
-   ./mvnw clean install
+   ./mvnw clean install -DskipTests=true
    ./mvnw spring-boot:run
    ```
 
 ### Testing
 
-**Backend unit and integration tests can be run using Maven:**
+**Unit and integration tests can be run using Maven:**
 ```bash
 ./mvnw test
 ```
