@@ -1,4 +1,4 @@
-# URL Shortener Service
+# URL Shortener
 
 ## Overview
 
@@ -9,7 +9,7 @@ This project is a URL shortener service built with Java, Spring Boot, WebFlux an
 Before getting started, make sure you have the following installed:
 
 - **Java 21**
-- **Docker and Docker Compose**: needed for spring-boot-docker-compose maven package, which will spin up MongoDB when the backend is started.
+- **Docker and Docker Compose**: needed for spring-boot-docker-compose maven package, which will spin up MongoDB when the service is started.
 
 ## Setup
 
